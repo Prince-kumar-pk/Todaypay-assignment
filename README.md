@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-# Demo [Live Link](http://http://65.0.154.102/).
+# Demo [Live Link](http://65.0.154.102)
 
-This project was bootstrapped with [Create React App](http://http://65.0.154.102/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
